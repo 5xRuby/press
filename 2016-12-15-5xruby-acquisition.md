@@ -20,10 +20,8 @@
 
 ![image](images/2016-12-15/office-1.jpg)
 
-
-![image](images/2016-12-15/office-2.jpg)
-
+![image](images/2016-12-15/office-3.jpg)
 
 冰箱啤酒這麼多，叫RoR開發人員要怎麼寫程式啊
 
-![image](images/2016-12-15/office-3.jpg)
+![image](images/2016-12-15/office-2.jpg)
